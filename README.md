@@ -1,4 +1,4 @@
-Using the data from books to predict the course of the book and create a filter for parental control.
+Using the data from books to predict the genre of the book and create a filter for parental control.
 
 The datasets were obtained via Gutenberg.
 
